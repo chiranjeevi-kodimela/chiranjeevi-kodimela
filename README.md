@@ -20,7 +20,7 @@ Building practical software, learning by shipping, and solving real-world proble
 
 - Computer Science graduate focused on software development.
 - Building full-stack applications using React, JavaScript, Node.js, Express, and MySQL.
-- Interested in backend engineering, data structures and algorithms, and developer tools.
+- Interested in frontend, backend engineering, data structures and algorithms, and developer tools.
 - Learning by building projects, debugging real issues, and deploying applications.
 - Open to entry-level software development opportunities.
 
@@ -29,7 +29,6 @@ Building practical software, learning by shipping, and solving real-world proble
 <div align="center">
 
 ### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
